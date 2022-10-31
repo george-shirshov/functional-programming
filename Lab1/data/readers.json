@@ -1,0 +1,182 @@
+[
+  {
+    "surname":"Иванов",
+    "name":"Иван",
+    "patronymic":"Иваныч",
+    "date_birth":"2000-05-12",
+    "list_books":
+    [
+      {
+        "return_date":"2021-05-21",
+        "books":
+        [
+          {"author":"Толстой Л. Н", "name":"Анна Каренина", "inventory_number":"00147", "genre":"Роман", "age_rating":16, "number_books":10, "number_borrowed_books":2},
+          {"author":"Достоевский Ф. М", "name":"Идиот", "inventory_number":"00114", "genre":"Роман", "age_rating":16, "number_books":8, "number_borrowed_books":2},
+          {"author":"Грибоедов А. С", "name":"Горе от ума", "inventory_number":"00593", "genre":"Комедия", "age_rating":12, "number_books":13, "number_borrowed_books":3}
+        ]
+      }
+    ]
+  },
+  {
+    "surname":"Казаков",
+    "name":"Олег",
+    "patronymic":"Владимирович",
+    "date_birth":"1978-01-04",
+    "list_books":
+    [
+      {
+        "return_date":"2021-03-05",
+        "books":
+        [
+          {"author":"Джеймс Э. Л.", "name":"Пятьдесят оттенков серого", "inventory_number":"00571", "genre":"Роман", "age_rating":18, "number_books":16, "number_borrowed_books":1}
+        ]
+      }
+    ]
+  },
+  {
+    "surname":"Петров",
+    "name":"Кирилл",
+    "patronymic":"Олегович",
+    "date_birth":"2010-12-20",
+    "list_books":
+    [
+      {
+        "return_date":"2021-03-25",
+        "books":
+        [
+          {"author":"Лермонтов М. Ю", "name":"Герой нашего времени", "inventory_number":"00407", "genre":"Роман", "age_rating":12, "number_books":5, "number_borrowed_books":2},
+          {"author":"Достоевский Ф. М", "name":"Идиот", "inventory_number":"00114", "genre":"Роман", "age_rating":16, "number_books":8, "number_borrowed_books":2},
+          {"author":"Толстой Л. Н", "name":"Анна Каренина", "inventory_number":"00147", "genre":"Роман", "age_rating":16, "number_books":10, "number_borrowed_books":2}
+        ]
+      }
+    ]
+  },
+  {
+    "surname":"Комарова",
+    "name":"Варвара",
+    "patronymic":"Вадимовна",
+    "date_birth":"2005-09-06",
+    "list_books":
+    [
+      {
+        "return_date":"2021-02-23",
+        "books":
+        [
+          {"author":"Грибоедов А. С", "name":"Горе от ума", "inventory_number":"00593", "genre":"Комедия", "age_rating":12, "number_books":13, "number_borrowed_books":3},
+          {"author":"Гоголь Н. В", "name":"Мертвые души", "inventory_number":"00216", "genre":"Роман", "age_rating":12, "number_books":10, "number_borrowed_books":1}
+        ]
+      }
+    ]
+  },
+  {
+    "surname":"Крылов",
+    "name":"Степан",
+    "patronymic":"Александрович",
+    "date_birth":"2005-08-27",
+    "list_books":
+    [
+      {
+        "return_date":"2021-02-23",
+        "books":
+        [
+          {"author":"Грибоедов А. С", "name":"Горе от ума", "inventory_number":"00593", "genre":"Комедия", "age_rating":12, "number_books":13, "number_borrowed_books":3},
+          {"author":"Пушкин А. С", "name":"Евгений Онегин", "inventory_number":"00182", "genre":"Роман", "age_rating":12, "number_books":20, "number_borrowed_books":2}
+        ]
+      },
+      {
+        "return_date":"2021-03-19",
+        "books":
+        [
+          {"author":"Чехов А. П", "name":"Вишневый сад", "inventory_number":"00057", "genre":"Комедия", "age_rating":12, "number_books":12, "number_borrowed_books":1},
+          {"author":"Булгаков М. А", "name":"Собачье сердце", "inventory_number":"00393", "genre":"Сатира", "age_rating":12, "number_books":13, "number_borrowed_books":2}
+        ]
+      }
+    ]
+  },
+  {
+    "surname":"Абрамов",
+    "name":"Владислав",
+    "patronymic":"Дмитриевич",
+    "date_birth":"1999-10-05",
+    "list_books":
+    [
+      {
+        "return_date":"2021-01-02",
+        "books":
+        [
+          {"author":"Булгаков М. А", "name":"Собачье сердце", "inventory_number":"00393", "genre":"Сатира", "age_rating":12, "number_books":13, "number_borrowed_books":2},
+          {"author":"Пушкин А. С", "name":"Евгений Онегин", "inventory_number":"00182", "genre":"Роман", "age_rating":12, "number_books":20, "number_borrowed_books":2}
+        ]
+      }
+    ]
+  },
+  {
+    "surname":"Котова",
+    "name":"Ольга",
+    "patronymic":"Александровна",
+    "date_birth":"2004-01-27",
+    "list_books":
+    [
+      {
+        "return_date":"2021-11-18",
+        "books":
+        [
+          {"author":"Аксаков С. Т", "name":"Аленький цветочек", "inventory_number":"00590", "genre":"Сказка", "age_rating":6, "number_books":9, "number_borrowed_books":3},
+          {"author":"Лермонтов М. Ю", "name":"Герой нашего времени", "inventory_number":"00407", "genre":"Роман", "age_rating":12, "number_books":5, "number_borrowed_books":2}
+        ]
+      }
+    ]
+  },
+  {
+    "surname":"Архипов",
+    "name":"Антон",
+    "patronymic":"Валерьевич",
+    "date_birth":"2014-08-12",
+    "list_books":
+    [
+      {
+        "return_date":"2021-11-7",
+        "books":
+        [
+          {"author":"Чуковский К. И", "name":"Мойдодыр", "inventory_number":"00100", "genre":"Сказка", "age_rating":0, "number_books":15, "number_borrowed_books":2},
+          {"author":"Аксаков С. Т", "name":"Аленький цветочек", "inventory_number":"00590", "genre":"Сказка", "age_rating":6, "number_books":9, "number_borrowed_books":3},
+          {"author":"Волков А. М", "name":"Волшебник Изумрудного города", "inventory_number":"00002", "genre":"Сказка", "age_rating":0, "number_books":3, "number_borrowed_books":1}
+        ]
+      }
+    ]
+  },
+  {
+    "surname":"Касаткина",
+    "name":"Любовь",
+    "patronymic":"Антоновна",
+    "date_birth":"2014-02-14",
+    "list_books":
+    [
+      {
+        "return_date":"2021-11-01",
+        "books":
+        [
+          {"author":"Чуковский К. И", "name":"Мойдодыр", "inventory_number":"00100", "genre":"Сказка", "age_rating":0, "number_books":15, "number_borrowed_books":2},
+          {"author":"Аксаков С. Т", "name":"Аленький цветочек", "inventory_number":"00590", "genre":"Сказка", "age_rating":6, "number_books":9, "number_borrowed_books":3}
+        ]
+      }
+    ]
+  },
+  {
+    "surname":"Aa",
+    "name":"Aa",
+    "patronymic":"Aa",
+    "date_birth":"2014-02-14",
+    "list_books":
+    [
+      {
+        "return_date":"2021-11-01",
+        "books":
+        [
+          {"author":"Чуковский К. И", "name":"Мойдодыр", "inventory_number":"00100", "genre":"Сказка", "age_rating":0, "number_books":15, "number_borrowed_books":2},
+          {"author":"Аксаков С. Т", "name":"Аленький цветочек", "inventory_number":"00590", "genre":"Сказка", "age_rating":6, "number_books":9, "number_borrowed_books":3}
+        ]
+      }
+    ]
+  }
+]

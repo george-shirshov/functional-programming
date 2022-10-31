@@ -1,0 +1,14 @@
+[
+  {"author":"Толстой Л. Н", "name":"Анна Каренина", "inventory_number":"00147", "genre":"Роман", "age_rating":16, "number_books":10, "number_borrowed_books":2},
+  {"author":"Достоевский Ф. М", "name":"Идиот", "inventory_number":"00114", "genre":"Роман", "age_rating":16, "number_books":8, "number_borrowed_books":2},
+  {"author":"Грибоедов А. С", "name":"Горе от ума", "inventory_number":"00593", "genre":"Комедия", "age_rating":12, "number_books":13, "number_borrowed_books":3},
+  {"author":"Пушкин А. С", "name":"Евгений Онегин", "inventory_number":"00182", "genre":"Роман", "age_rating":12, "number_books":20, "number_borrowed_books":2},
+  {"author":"Гоголь Н. В", "name":"Мертвые души", "inventory_number":"00216", "genre":"Роман", "age_rating":12, "number_books":10, "number_borrowed_books":1},
+  {"author":"Чехов А. П", "name":"Вишневый сад", "inventory_number":"00057", "genre":"Комедия", "age_rating":12, "number_books":12, "number_borrowed_books":1},
+  {"author":"Булгаков М. А", "name":"Собачье сердце", "inventory_number":"00393", "genre":"Сатира", "age_rating":12, "number_books":13, "number_borrowed_books":2},
+  {"author":"Лермонтов М. Ю", "name":"Герой нашего времени", "inventory_number":"00407", "genre":"Роман", "age_rating":12, "number_books":5, "number_borrowed_books":2},
+  {"author":"Джеймс Э. Л", "name":"Пятьдесят оттенков серого", "inventory_number":"00571", "genre":"Роман", "age_rating":18, "number_books":16, "number_borrowed_books":1},
+  {"author":"Чуковский К. И", "name":"Мойдодыр", "inventory_number":"00100", "genre":"Сказка", "age_rating":0, "number_books":15, "number_borrowed_books":2},
+  {"author":"Аксаков С. Т", "name":"Аленький цветочек", "inventory_number":"00590", "genre":"Сказка", "age_rating":6, "number_books":9, "number_borrowed_books":3},
+  {"author":"Волков А. М", "name":"Волшебник Изумрудного города", "inventory_number":"00002", "genre":"Сказка", "age_rating":0, "number_books":3, "number_borrowed_books":1}
+]
